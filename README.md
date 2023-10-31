@@ -1,5 +1,6 @@
 <h1 align="center">Hello there... I'm Maximiliano G Alsina</h1>
-<h3 align="center">Soy un estudiante de programación en la U.T.N San Rafael en mi último año, y siendo autodidacta a la vez. Mi deseo es poder vivir y poder mantener a mi familia del desarrollo de software. Estoy descidido a alcanzarlo!</h3>
+<h3 align="center">Soy un estudiante de programación en la U.T.N San Rafael en mi último año, y siendo autodidacta a la vez.
+  Aun no tengo un stack definido pero trabajando en ello. Siempre con ganas de aprender y mejorar, Muy responsable y dedicado a lo que me gusta !!. Mi deseo es poder vivir y poder mantener a mi familia del desarrollo de software. Estoy descidido a alcanzarlo!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malsinag&label=Profile%20views&color=0e75b6&style=flat" alt="malsinag" /> </p>
 
